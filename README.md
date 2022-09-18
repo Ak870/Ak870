@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ak870
+- 👋 Hi, I’m @Ak
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning git and gitlab
 - 💞️ I’m looking to collaborate on ...
